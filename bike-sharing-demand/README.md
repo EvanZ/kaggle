@@ -8,7 +8,6 @@ You are provided hourly rental data spanning two years. For this competition, th
 Data Fields
 ======
 
-<<<<<<< HEAD
 * Datetime - hourly date + timestamp
 * season -  1 = spring, 2 = summer, 3 = fall, 4 = winter
 * holiday - whether the day is considered a holiday
